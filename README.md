@@ -13,5 +13,6 @@ for more version
 - [MarkDown](./outs/TBBT.md)
 - [Docx](./outs/TBBT.docx)
 - [PDF](./outs/TBBT.pdf)
+- [mobi](./outs/TBBT.mobi)
 
 ## Audios
