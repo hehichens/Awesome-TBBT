@@ -5,7 +5,8 @@ Awesome-TBBT is a project about [The Big Bang Theory](https://en.wikipedia.org/w
 
 ## Lines
 get the transcript from [big bang theory transcripts](https://bigbangtrans.wordpress.com/)
-you can read it at [here](./doc)
+
+you can read it from source [here](./doc)
 
 for more version
 - [MarkDown](./outs/TBBT.md)
