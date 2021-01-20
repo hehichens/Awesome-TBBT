@@ -1,4 +1,5 @@
 # Awesome-TBBT
+![](./pics/logo.png)
 Awesome-TBBT is a project about [The Big Bang Theory](https://en.wikipedia.org/wiki/The_Big_Bang_Theory)
 
 ## Videos
